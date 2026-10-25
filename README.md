@@ -7,11 +7,11 @@
 >
 > ```toml
 > [dependencies]
-> yaml = "^0.1.0"
+> yaml = "^0.1.1"
 > ```
 >
 > Without an index, the direct git dependency:
-> `yaml = "git+https://github.com/ray-language/yaml@v0.1.0"`.
+> `yaml = "git+https://github.com/ray-language/yaml@v0.1.1"`.
 
 
 YAML 1.2 for raylang: read a document into `std/json`'s ordered `Doc` and write a `Doc` back
